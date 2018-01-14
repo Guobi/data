@@ -74465,3 +74465,48 @@ rtt min/avg/max/mdev = 17.937/22.337/26.417/3.469 ms
 Sun 14 Jan 19:10:01 +08 2018
 PING cs645.adn.gammacdn.net (152.195.56.204) 56(84) bytes of data.
 64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=1 ttl=55 time=21.4 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=2 ttl=55 time=22.8 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=3 ttl=55 time=21.7 ms
+
+--- cs645.adn.gammacdn.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 21.444/22.018/22.845/0.611 ms
+Sun 14 Jan 19:11:01 +08 2018
+PING cs645.adn.gammacdn.net (152.195.56.204) 56(84) bytes of data.
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=1 ttl=55 time=36.7 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=2 ttl=55 time=26.5 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=3 ttl=55 time=11.0 ms
+
+--- cs645.adn.gammacdn.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 11.077/24.793/36.783/10.565 ms
+Sun 14 Jan 19:12:01 +08 2018
+PING cs645.adn.gammacdn.net (152.195.56.204) 56(84) bytes of data.
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=1 ttl=55 time=19.1 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=2 ttl=55 time=18.3 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=3 ttl=55 time=17.6 ms
+
+--- cs645.adn.gammacdn.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 17.611/18.381/19.157/0.631 ms
+Sun 14 Jan 19:13:01 +08 2018
+PING cs645.adn.gammacdn.net (152.195.56.204) 56(84) bytes of data.
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=1 ttl=55 time=19.7 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=2 ttl=55 time=13.5 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=3 ttl=55 time=19.4 ms
+
+--- cs645.adn.gammacdn.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 13.574/17.594/19.755/2.845 ms
+Sun 14 Jan 19:14:02 +08 2018
+PING cs645.adn.gammacdn.net (152.195.56.204) 56(84) bytes of data.
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=1 ttl=55 time=11.6 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=2 ttl=55 time=15.8 ms
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=3 ttl=55 time=11.4 ms
+
+--- cs645.adn.gammacdn.net ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 11.497/12.979/15.838/2.022 ms
+Sun 14 Jan 19:15:01 +08 2018
+PING cs645.adn.gammacdn.net (152.195.56.204) 56(84) bytes of data.
+64 bytes from 152.195.56.204 (152.195.56.204): icmp_seq=1 ttl=55 time=15.3 ms
